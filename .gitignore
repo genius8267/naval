@@ -1,0 +1,19 @@
+# Eval reports (re-generate as needed, not part of distribution)
+skill/brain/_evals/reports/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Built tarballs
+*.tar.gz
+*.zip
+
+# Local testing artifacts
+/tmp/
+*.log
